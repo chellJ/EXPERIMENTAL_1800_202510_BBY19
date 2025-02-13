@@ -4,12 +4,12 @@ URL: https://coolors.co/f60665-1c3144-00e8fc-ffba08-fff5f5
 
 @font-face {
   font-family: Nautilus;
-  src: url(../fonts/Nautilus.otf);
+  src: url(fonts/Nautilus.otf);
 }
 
 @font-face {
   font-family: Garamond;
-  src: url("../fonts/EBGaramond-VariableFont_wght.ttf");
+  src: url("fonts/EBGaramond-VariableFont_wght.ttf");
 }
 
 body{
